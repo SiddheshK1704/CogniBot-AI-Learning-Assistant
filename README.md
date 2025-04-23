@@ -1,8 +1,12 @@
 # CogniBot - AI Learning Assistant
 
+## The Homepage-
 ![CogniBot-Homepage](templates/homepage.png)
 
 CogniBot is an AI-powered learning assistant designed to help students and learners get personalized support for their educational needs. The web application features a clean, responsive interface with dark/light mode toggle and an interactive chatbot.
+
+## The Chatbot UI page-
+![CogniBot- Chatbot UI](templates/chatbout_ui.png)
 
 ## Features
 
@@ -32,4 +36,10 @@ CogniBot is an AI-powered learning assistant designed to help students and learn
    - Interactive message bubbles
    - Typing indicators
    - Voice input button
+   - Theme-consistent design
+
+3. **Quiz Interface (quiz.html)**
+   - Interactive message bubbles
+   - Typing indicators
+   - Interact and learn concepts with new daily quizzes.
    - Theme-consistent design
